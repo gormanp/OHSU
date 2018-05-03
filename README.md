@@ -4,3 +4,5 @@ This repository contains documents and files associated with OHSU and DMICE - th
 - Health Systems Science curriculum
 - Rural Medical Education
 - Coaching medical students to articulate and achieve their goals
+- DMICE doctoral and postdoctoral student advising and mentoring
+- General OHSU, SOM, and DMICE service
